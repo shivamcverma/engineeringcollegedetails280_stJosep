@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+selenium>=4.15.0
+beautifulsoup4
+webdriver-manager>=4.0.0
