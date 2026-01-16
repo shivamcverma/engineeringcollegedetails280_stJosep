@@ -22,6 +22,13 @@ BASE_URL =[
     "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-and-technology-chittoor-37770",
     "https://www.shiksha.com/college/college-of-engineering-sri-venkateswara-university-tirupati-22999",
     "https://www.shiksha.com/college/st-joseph-s-institute-of-technology-old-mahabalipuram-road-chennai-61315",
+    "https://www.shiksha.com/college/st-joseph-s-college-of-engineering-old-mahabalipuram-road-chennai-24564",
+    "https://www.shiksha.com/university/teerthanker-mahaveer-university-moradabad-38056",
+    "https://www.shiksha.com/university/the-lnm-institute-of-information-technology-jaipur-25194",
+    "https://www.shiksha.com/university/uttaranchal-university-dehradun-4383",
+    "https://www.shiksha.com/college/vidya-jyothi-institute-of-technology-c-b-post-hyderabad-25306",
+    "https://www.shiksha.com/college/vignan-s-institute-of-information-technology-visakhapatnam-25243",
+    "https://www.shiksha.com/college/walchand-college-of-engineering-sangli-21548",
     
 ] 
 
