@@ -1,7 +1,7 @@
 [
   {
     "college_details": {
-      "id": "college_280",
+      "id": "college_281",
       "college_info": {
         "college_info": {
           "college_name": "SMIT Sikkim: Courses, Fees, Admission 2025, Placements, Cutoff",
@@ -1506,7 +1506,7 @@
   },
   {
     "college_details": {
-      "id": "college_281",
+      "id": "college_282",
       "college_info": {
         "college_info": {
           "college_name": "Silicon Institute of Technology, Bhubaneswar: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -2580,7 +2580,7 @@
   },
   {
     "college_details": {
-      "id": "college_282",
+      "id": "college_283",
       "college_info": {
         "college_info": {
           "college_name": "SNS College of Technology, SNS Group of Institutions: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -3755,7 +3755,7 @@
   },
   {
     "college_details": {
-      "id": "college_283",
+      "id": "college_284",
       "college_info": {
         "college_info": {
           "college_name": "SECE - Sri Eshwar College of Engineering: Courses, Fees, Admission 2025, Placements",
@@ -3814,15 +3814,19 @@
           "faqs": [
             {
               "answer": "",
-              "question": "What is the minimum cut-off mark to get into the SSN College of Engineering for BTech?"
+              "question": "Can I join Sri Eshwar College of Engineering directly?"
+            },
+            {
+              "answer": "",
+              "question": "Are there any specializations offered by SECE - Sri Eshwar College of Engineering?"
+            },
+            {
+              "answer": "",
+              "question": "How is the placement facility at SECE - Sri Eshwar College of Engineering?"
             },
             {
               "answer": "",
               "question": "What is the median package offered at SECE - Sri Eshwar College of Engineering during placements?"
-            },
-            {
-              "answer": "",
-              "question": "What is the median package of B.E. / B.Tech course that is offered by SECE - Sri Eshwar College of Engineering?"
             }
           ]
         }
@@ -4322,13 +4326,7 @@
               "Top recruiters",
               "Autodesk, Zscaler, Toshiba"
             ],
-            "faqs": [
-              {
-                "question": "Who are the top recruiters at SECE - Sri Eshwar College of Engineering during placements?",
-                "answer": "SECE - Sri Eshwar College of Engineering offers placement support to its students. Notable organizations that visit the institute for recruitment include K.D Enterprise, Pradeshik Cooperative Dairy Federation,  3D Logic, Amazon Transpotaion, Linpack Technologies Pvt Ltd, Rd Constro Tech, Samsung R And D Institute India Noida, Isb M School Technology, Arezzo Avia Llp, Mojhi, Xrbia Ltd, Gndu Rc Sultanpur Lodhi, Pulsus Healthtech Llp, Bharat Industries, Cypress Auto Pvt Ltd, Dimple Advisory Pvt Ltd, Enfosys Pvtltd, F Street, Genaaue Engineering, Green Lotus Group, Hakimi Techology Solutions, Hse Rms Pvtltd, Mega Group Pvt Ltd, New Wings Technologies, Kapoor & Co. Not satisfied with answer? Ask Shiksha GPT",
-                "tables": []
-              }
-            ]
+            "faqs": []
           }
         },
         "average_package": {
@@ -4400,28 +4398,6 @@
                     [
                       "the highest package",
                       "INR 40 LPA"
-                    ]
-                  ]
-                }
-              ]
-            },
-            {
-              "question": "What is the fee range for the courses offered at SECE - Sri Eshwar College of Engineering?",
-              "answer": "The college offers BE/BTech and ME courses at the UG and PG level. The college offers more than 10 (including specialisations) courses in the Engineering stream. Studnets can check course-wise total tuition fee from the table presented below: Course Total Tuition Fee BTech INR 1.2 lakh-INR 2 lakh MTech INR 50,000 Note: This information is sourced from official website/ sanctioning body and is subject to change. Not satisfied with answer? Ask Shiksha GPT",
-              "tables": [
-                {
-                  "headers": [
-                    "Course",
-                    "Total Tuition Fee"
-                  ],
-                  "rows": [
-                    [
-                      "BTech",
-                      "INR 1.2 lakh-INR 2 lakh"
-                    ],
-                    [
-                      "MTech",
-                      "INR 50,000"
                     ]
                   ]
                 }
@@ -4978,7 +4954,7 @@
   },
   {
     "college_details": {
-      "id": "college_284",
+      "id": "college_285",
       "college_info": {
         "college_info": {
           "college_name": "SMVEC: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -5779,7 +5755,7 @@
               "link": "https://www.shiksha.com/b-tech/centac-counselling-application-form",
               "author_name": "Saakshi Varsha Lama",
               "author_link": "https://www.shiksha.com/author/Saakshi176685",
-              "date": "Dec 19, 2025",
+              "date": "Jan 19, 2026",
               "image": "",
               "views": "141 Views",
               "comments": ""
@@ -5802,7 +5778,7 @@
   },
   {
     "college_details": {
-      "id": "college_285",
+      "id": "college_286",
       "college_info": {
         "college_info": {
           "college_name": "Sri Venkateswara College of Engineering: Courses, Fees, Admission 2025, Placements",
@@ -6683,6 +6659,36 @@
             ]
           },
           {
+            "question": "Does the Sri Venkateswara College of Engineering report successful placements?",
+            "answer": "The Sri Venkateswara College of Engineering reports successful placements over the years. At present, over 410 companies are taking part in the placements 2024 The institute has generated an amazing 98.8% placement rate during the placement drive 2024. For more information on Sri Venkateswara College of Engineering placements 2024 refer to the table below: Particulars Placement Statistics (2024) the highest Package INR 46.47 LPA Average Package INR 5.7 LPA Total Recruiters 410+ Placement Rate 98.8%",
+            "tables": [
+              {
+                "headers": [
+                  "Particulars",
+                  "Placement Statistics (2024)"
+                ],
+                "rows": [
+                  [
+                    "the highest Package",
+                    "INR 46.47 LPA"
+                  ],
+                  [
+                    "Average Package",
+                    "INR 5.7 LPA"
+                  ],
+                  [
+                    "Total Recruiters",
+                    "410+"
+                  ],
+                  [
+                    "Placement Rate",
+                    "98.8%"
+                  ]
+                ]
+              }
+            ]
+          },
+          {
             "question": "Are the graduating students of Sri Venkateswara College of Engineering placed in fortune companies?",
             "answer": "The graduating students of Sri Venkateswara College of Engineering are reported to have been placed in fortune companies across the globe. With over 25,000 alumni being placed making Sri Venkateswara College of Engineering one of the top universities regarding placements. Check out the table below to know more about Sri Venkateswara College of Engineering placement statistics: Particulars Placement Statistics (2024) the highest Package INR 46.47 LPA Average Package INR 5.7 LPA Total Recruiters 410+ Placement Rate 98.8%",
             "tables": [
@@ -6713,8 +6719,8 @@
             ]
           },
           {
-            "question": "Does the Sri Venkateswara College of Engineering report successful placements?",
-            "answer": "The Sri Venkateswara College of Engineering reports successful placements over the years. At present, over 410 companies are taking part in the placements 2024 The institute has generated an amazing 98.8% placement rate during the placement drive 2024. For more information on Sri Venkateswara College of Engineering placements 2024 refer to the table below: Particulars Placement Statistics (2024) the highest Package INR 46.47 LPA Average Package INR 5.7 LPA Total Recruiters 410+ Placement Rate 98.8%",
+            "question": "How are the placements at Sri Venkateswara College of Engineering Kanchipuram?",
+            "answer": "The placement rate for the academic year 2023-24 stood at 90.20%. Further, the highest package and average package stood at INR 46.47 LPA and INR 5.70 LPA, respectively. Check the table below for complete insights related to Sri Venkateswara College of Engineering Kanchipuram placements 2024:",
             "tables": [
               {
                 "headers": [
@@ -6723,20 +6729,16 @@
                 ],
                 "rows": [
                   [
-                    "the highest Package",
+                    "the highest package",
                     "INR 46.47 LPA"
                   ],
                   [
-                    "Average Package",
-                    "INR 5.7 LPA"
+                    "Average package",
+                    "INR 5.70 LPA"
                   ],
                   [
-                    "Total Recruiters",
-                    "410+"
-                  ],
-                  [
-                    "Placement Rate",
-                    "98.8%"
+                    "Placement rate",
+                    "90.20%"
                   ]
                 ]
               }
@@ -6876,6 +6878,11 @@
                 ]
               }
             ]
+          },
+          {
+            "question": "What is the fees range for courses offerred by the Sri Venkateswara College of Engineering, Kanchipuram?",
+            "answer": "",
+            "tables": []
           }
         ]
       },
@@ -7362,7 +7369,7 @@
   },
   {
     "college_details": {
-      "id": "college_286",
+      "id": "college_287",
       "college_info": {
         "college_info": {
           "college_name": "SVCET Chittoor: Courses, Fees, Admission 2025, Placements",
@@ -8511,7 +8518,1082 @@
   },
   {
     "college_details": {
-      "id": "college_287",
+      "id": "college_288",
+      "college_info": {
+        "college_info": {
+          "college_name": "SVCE Tirupati: Courses, Fees, Admission 2025, Placements, Reviews",
+          "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+          "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+          "videos_count": 2,
+          "photos_count": 34,
+          "rating": "4.2",
+          "reviews_count": null,
+          "qa_count": 28,
+          "location": "Tirupati",
+          "city": null,
+          "institute_type": "Private Institute",
+          "established_year": "2007",
+          "highlights": {
+            "summary": "Sri Venkateswara College of Engineering, Tirupati is also known as SVCE Tirupati was founded in 2007. It is a private institute and is located in Tirupati, Andhra Pradesh. SVCE Tirupati courses are offered to students at the UG and PG levels. The institute is approved by AICTE and offers courses in Full Time mode. SVCE Tirupati offers a total of 15 courses in streams such as Engineering, Business & Management Studies and IT & Software. Some of the popular courses offered at the institute are B.E. / B.Tech, M.E./M.Tech, MBA/PGDM and MCA and the total seat intake for the available courses is 2034. These courses are offered to students across several specialisations such as Civil Engineering, Computer Science Engineering, Electrical Engineering, Electronics & Communication Engineering and Information Technology. Further, the fee for all these courses ranges between INR 70,000 to 2,98,000 and the average median salary is around INR 4,96,667. Apart from this, the SVCE Tirupati campus has a state-of-the-art infrastructure with all the advanced facilities.",
+            "table": [
+              {
+                "details": "Tirupati, Andhra Pradesh",
+                "particular": "Campus Location"
+              },
+              {
+                "details": "UG and PG",
+                "particular": "Courses Offered"
+              },
+              {
+                "details": "2034",
+                "particular": "No. of Seats"
+              },
+              {
+                "details": "INR 4,96,667",
+                "particular": "Median Salary"
+              },
+              {
+                "details": "INR 70,000 to 2,98,000",
+                "particular": "Fees Range"
+              }
+            ]
+          }
+        },
+        "college_info_program": {
+          "intro": null,
+          "courses": [
+            {
+              "course_name": "B.E. / B.Tech",
+              "course_url": "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-tirupati-48365/courses/be-btech-bc",
+              "duration": "4.2",
+              "exams": [
+                "AP EAMCET",
+                "CBSE 12th",
+                "BIEAP"
+              ],
+              "fees": "₹2.98 L",
+              "median_salary": "₹4.92 LPA",
+              "ranking": "201-300 NIRF",
+              "rating": "4.2",
+              "reviews": "507"
+            },
+            {
+              "course_name": "MBA/PGDM",
+              "course_url": "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-tirupati-48365/courses/mba-pgdm-bc",
+              "duration": "4.2",
+              "exams": [
+                "APICET"
+              ],
+              "fees": "₹70 K",
+              "median_salary": "3.8",
+              "ranking": null,
+              "rating": "4.2",
+              "reviews": "12"
+            }
+          ],
+          "faqs": [
+            {
+              "answer": "",
+              "question": "What is the eligibility to get admission in Sri Venkateswara College of Engineering, Tirupati for UG/PG courses?"
+            },
+            {
+              "answer": "",
+              "question": "How many seats are available for various courses offered at Sri Venkateswara College of Engineering, Tirupati?"
+            },
+            {
+              "answer": "",
+              "question": "How is the placement facility at Sri Venkateswara College of Engineering, Tirupati?"
+            }
+          ]
+        }
+      },
+      "courses": {
+        "college_info": {
+          "college_name": "SVCE Tirupati PG and UG Courses 2025",
+          "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+          "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+          "videos_count": 2,
+          "photos_count": 34,
+          "rating": "4.2",
+          "reviews_count": null,
+          "qa_count": 37,
+          "location": "Tirupati",
+          "city": null,
+          "institute_type": "Private Institute",
+          "established_year": "2007"
+        },
+        "courses": [
+          {
+            "course_name": "B.E. / B.Tech (10 courses)",
+            "fees": "3 L",
+            "eligibility": {
+              "exams": [
+                "AP EAMCET",
+                "CBSE 12th"
+              ]
+            }
+          },
+          {
+            "course_name": "MBA/PGDM (1 course)",
+            "fees": "70 K",
+            "eligibility": {
+              "graduation": "50 %",
+              "exams": [
+                "APICET"
+              ]
+            }
+          },
+          {
+            "course_name": "MCA (2 courses)",
+            "fees": "1.2 L",
+            "eligibility": {
+              "graduation": "50 %",
+              "exams": [
+                "APICET"
+              ]
+            }
+          },
+          {
+            "course_name": "Mar '26-Apr '26",
+            "fees": "AP EAMCET 2026 Application Form Dates Tentative",
+            "eligibility": {}
+          },
+          {
+            "course_name": "May '26",
+            "fees": "AP EAMCET 2026 Application form last date with late fee INR 1000 Tentative",
+            "eligibility": {}
+          },
+          {
+            "course_name": "May '26",
+            "fees": "AP EAMCET 2026 Application form last date with late fee INR 2000 Tentative",
+            "eligibility": {}
+          },
+          {
+            "course_name": "Feb '26-Mar '26",
+            "fees": "APICET 2026 Registration Process (Without late fee) Tentative",
+            "eligibility": {}
+          },
+          {
+            "course_name": "28 Apr '26",
+            "fees": "APICET 2026 Exam Date",
+            "eligibility": {}
+          },
+          {
+            "course_name": "Feb '26-Mar '26",
+            "fees": "APICET 2026 Registration Process (Without late fee) Tentative",
+            "eligibility": {}
+          },
+          {
+            "course_name": "28 Apr '26",
+            "fees": "APICET 2026 Exam Date",
+            "eligibility": {}
+          }
+        ]
+      },
+      "fees": {
+        "college_info": {
+          "college_name": "SVCE Tirupati Fees 2026",
+          "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+          "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+          "videos_count": 2,
+          "photos_count": 34,
+          "rating": "4.2",
+          "reviews_count": null,
+          "qa_count": 37,
+          "location": "Tirupati",
+          "city": null,
+          "institute_type": "Private Institute",
+          "established_year": "2007"
+        },
+        "fees_data": [
+          {
+            "course": "B.E. / B.Tech",
+            "total_tuition_fees": "₹ 2.98 L"
+          },
+          {
+            "course": "MBA/PGDM",
+            "total_tuition_fees": "₹ 70 K"
+          },
+          {
+            "course": "MCA",
+            "total_tuition_fees": "₹ 1.2 L"
+          },
+          {
+            "course": "M.E./M.Tech",
+            "total_tuition_fees": "₹ 1.3 L"
+          }
+        ]
+      },
+      "reviews": {
+        "review_summary": {
+          "college_info": {
+            "college_name": "SVCE Tirupati Reviews on Placements, Faculty & Facilities",
+            "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+            "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+            "videos_count": 2,
+            "photos_count": 34,
+            "rating": "4.2",
+            "reviews_count": null,
+            "qa_count": 37,
+            "location": "Tirupati",
+            "city": null,
+            "institute_type": "Private Institute",
+            "established_year": "2007"
+          },
+          "summary": {
+            "college_name": "SVCE Tirupati",
+            "overall_rating": "4.2",
+            "total_verified_reviews": "459",
+            "rating_distribution": {
+              "4-5": "282",
+              "3-4": "160",
+              "2-3": "14",
+              "1-2": "3"
+            },
+            "category_ratings": {
+              "Placements": "4",
+              "Infrastructure": "4.3",
+              "Faculty & Course": "4.2",
+              "Campus Life": "4.4",
+              "Value for Money": "4.2"
+            }
+          }
+        },
+        "reviews": [
+          {
+            "reviewer_name": "Mohan Krishna",
+            "course": "B.Tech. in Computer Science and Engineering",
+            "overall_rating": "3.4",
+            "review_title": "The college's excellence in teaching.",
+            "review_date": "Reviewed on7 Jan 2026",
+            "detailed_review": {
+              "Placements": "Placement is good. The people are getting less placements. They can offer less package. The placements are good for those who have the skills and above 8 CGP, and it is coming more for now. This is the best college, and it is the way to get maximum placement.",
+              "Infrastructure": "The hostel is superb but the beds are up and down. The college has digital boards, and the facilities are good. It is conducting good CRT classes, and they are developing to the change of the college placements for improvement. They are good from their perspective.",
+              "Faculty": "The exams are scheduled. Teachers send the PDF, and it's good for the percentage. Teachers help with workshops, intern the people developing, and the latest minor degree comes. It will be conducted for 3 years, and the minor degree we need to do the mini project.",
+              "Other": "College is the best, and the management does not force us to pay the EAMCET fee."
+            }
+          },
+          {
+            "reviewer_name": "R Chaitanya Prasad",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "4.8",
+            "review_title": "If you're willing to join SVCE, then you don't have to think twice because it's the best.",
+            "review_date": "Reviewed on24 Dec 2025",
+            "detailed_review": {
+              "Placements": "I'm currently pursuing ECE, which is electronic and communication engineering, so it's very obvious to get a placement. Though you're not from a university but in our college, it's guaranteed that every elite student gets their respective placement in their own fields.",
+              "Infrastructure": "The hospitality and infrastructure are quite good among all other colleges that come under Tirupati. As we look into the facilities they're providing, every required facility that can make students feel comfortable and satisfy this college is very good.",
+              "Faculty": "Every faculty in the college is helpful and knowledgeable, a qualified experts who have years of experience in their respective subjects. Semester exams are not bad, but it's okay to write. The pass percentage will be between 60% to 65%. Exams and activities are conducted with proper management.",
+              "Other": "If we discuss the ECE department, it's very much needed for the future technology and semiconductor platform may run well in future, and events are good but not as expected before joining the college."
+            }
+          },
+          {
+            "reviewer_name": "Abhishek",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "4.4",
+            "review_title": "Good placements were there last year.",
+            "review_date": "Reviewed on24 Dec 2025",
+            "detailed_review": {
+              "Placements": "The percentage of students is about 80% are placed in our college. The highest package is about 5 LPA, the lowest package is 1.5 LPA, and the average package is about 3 LPA. I think our colleges go mostly for companies like Zoho, Wipro and Infosys. About 55% students got internships. Manager, trainers like those roles are offered.",
+              "Infrastructure": "The facilities that we have are poor Wi-Fi for classes, but Ethernet is available in labs, so no problem. Each classroom has dedicated digital boards, a good number of laboratories, well-managed classrooms and a sufficient number of libraries. The quality of facilities available in our hostel is the same as that of other hostels, with no special treatment. The quality of food is super, good games and sports, and there are some medical kits available.",
+              "Faculty": "The teachers are so helpful with students and funny, but some people are not like that. We need to be nice, that's it, well-qualified, and most teachers have good knowledge of subjects. The course curriculum is relevant, and it makes students industry-ready. Exams are not so difficult and not so easy, we just have to read. The pass percentage is about 70%.",
+              "Other": "I chose this course because I have an interest in it, and it will rule the future as well. I wish that, if possible, the technical subjects have better materials and better instruments so that the student can learn the course practically. There are an infinite number of fests and events we can fully enjoy them as well."
+            }
+          },
+          {
+            "reviewer_name": "Anil Reddy",
+            "course": "B.Tech. in Computer Science and Engineering (Cyber Security)",
+            "overall_rating": "4.2",
+            "review_title": "It is better than the past years.",
+            "review_date": "Reviewed on22 Dec 2025",
+            "detailed_review": {
+              "Placements": "There is a medium range of placements. Nearly 95% of students are passed out from the college with the placements. The highest package offered in the college is 8 LPA. The lowest package is 3.5 LPA in the college placements.",
+              "Infrastructure": "Infrastructure is satisfied here. It provides well infrastructure and education. It recently added NCC for students, and conducted monthly technical events. It has well-equipped infrastructure labs with the latest updated versions and soft skills communication labs. There are electrical department labs that are fully equipped.",
+              "Faculty": "It is easy to study here. They provide good library resources and good teaching staff. They are moving closer to the students' mindset. They are friendly and interactive with the students. College management plans an industrial visit for students to gain practical knowledge."
+            }
+          },
+          {
+            "reviewer_name": "Vemula Hamsa Lakshmi",
+            "course": "B.Tech. in Computer Science and Engineering",
+            "overall_rating": "4",
+            "review_title": "Good college with quality teaching.",
+            "review_date": "Reviewed on7 Dec 2025",
+            "detailed_review": {
+              "Placements": "75 percent of students in my college got placements. The highest is 10 LPA, and the lowest is 1 LPA. The average package is 4 LPA. Top companies are Zoho. Around 70 percent of students got internships from my course. The top roles offered in my course are software engineer, front-end developer, and software developer.",
+              "Infrastructure": "Facilities and infrastructure available for my course and department are good. Wi-Fi is not provided to students. Labs and classrooms are spacious and good. The library is big, and there are many books available for my course. Hostel facilities and the canteen are average.",
+              "Faculty": "Teachers are qualified and knowledgeable. They are helpful in gaining knowledge in core subjects. Teaching quality is good and clear. This course curriculum is relevant and makes students industry-ready. Semester exams are easy in the college. Pass percentage is 75 percent."
+            }
+          },
+          {
+            "reviewer_name": "Chava Hanvitha",
+            "course": "B.Tech. in Computer Science and Engineering",
+            "overall_rating": "3.6",
+            "review_title": "Very good college in our city",
+            "review_date": "Reviewed on29 Nov 2025",
+            "detailed_review": {
+              "Placements": "60 percent of students are placed in our department, and the highest package is 19 LPA. The lowest package is 9 LPA. The students are placed in top recruiting companies in the college like TCS and Infosys, and it is very useful for us.",
+              "Infrastructure": "The facilities and infrastructure in our college are very good. We have good Wi-Fi connections, very new computers, and very good library rooms. The hostel food is very hygienic, and the food is also good. The rooms are very clean, and there are good sports and games.",
+              "Faculty": "Teachers are very helpful for us. The teachers are very good and very knowledgeable. They teach us very well with quality teaching. The semester exams are very easy for us because of our teachers, and we get good scores in our exams.",
+              "Other": "I have got seat."
+            }
+          },
+          {
+            "reviewer_name": "Gilaka Nandish",
+            "course": "B.Tech. in Mechanical Engineering",
+            "overall_rating": "3.6",
+            "review_title": "Good learning environment with decent placements, strong academics.",
+            "review_date": "Reviewed on29 Nov 2025",
+            "detailed_review": {
+              "Placements": "In my B.Tech batch, about 70-80% got placed. The highest package was around 10-12 LPA, the average is 4-5 LPA, and the lowest is 2.5 LPA - 3 LPA. Top recruiters were TCS, L&T, Tata Technologies, and Bosch. Around 50% got internships in L&T, Tata, Dr Reddy's. Common roles were GET, design and quality engineer.",
+              "Infrastructure": "Our department has Wi-Fi, equipped labs, smart classrooms, and a good library. Hostel facilities are decent with clean rooms, normal mess food, canteen snacks, basic medical support, and good sports grounds for games and fitness. Good environment.",
+              "Faculty": "Teachers are helpful, qualified, and explain concepts well. The curriculum is relevant and supports industry skills. Semester exams are moderate in difficulty, and students who prepare regularly clear them easily, giving a pass percentage of around 80-90%.",
+              "Other": "I chose this course for strong career prospects and practical learning. The best parts are hands-on labs and supportive faculty. Improvements are needed in placements and industry exposure. Campus events, crowd, connectivity, and extracurricular activities are good."
+            }
+          },
+          {
+            "reviewer_name": "G Ekshitha",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "4",
+            "review_title": "Very satisfied and good.",
+            "review_date": "Reviewed on29 Nov 2025",
+            "detailed_review": {
+              "Placements": "Around 70-85 percent of the students in the ECE department get placed every year. The average package is 4 LPA-6 LPA. The lowest Package is 2.5 LPA-3 LPA. Recruiting companies are TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, Jio, Airtel, Nokia, and Cisco. Around 40-60 percent of students from ECE get internships, depending on the year.",
+              "Infrastructure": "The ECE department has well-developed academic and technical facilities to support both theory and hands-on learning. ECE has fully equipped labs. These labs have oscilloscopes, signal generators, a trainer kit, sports, and monthly events are conducted.",
+              "Faculty": "The teachers in the ECE department are generally helpful, well-qualified, and knowledgeable. Most faculty members hold M.Tech or Ph.D. degrees. The ECE curriculum is updated and relevant to current industry needs. Semester exams are moderately difficult.",
+              "Other": "Events are conducted."
+            }
+          },
+          {
+            "reviewer_name": "G sohan tej",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "4.6",
+            "review_title": "The ECE course is best, and my faculty is well-experienced and very friendly with students.",
+            "review_date": "Reviewed on29 Nov 2025",
+            "detailed_review": {
+              "Placements": "60-70 percent of students got placed from my course. The highest package is 10 LPA and the lowest package is 3 LPA. Top recruiting companies are Intel, Telecom, Bosch, and Texas. 40-50 percent of students got internships from my course. Top roles are electronics designer and engineer.",
+              "Infrastructure": "The facilities provided in hostels are well-equipped. The rooms are cleaned every day. The canteen and mess food is very good and tasty.",
+              "Faculty": "Teachers are very helpful, well-qualified, and well knowledgeable. The teaching quality is extremely good. The course curriculum is very relevant. It makes students ready to survive and manage in life and career. Semesters are manageable, and we can pass easily. The faculty are well-trained with more than 15 years of experience. Teaching is very understandable to students, and they are very friendly to students.",
+              "Other": "I like this course very much, so I have decided to take it. I wish to improve my coding and hardware experiments more. Events and fests are conducted monthly, inviting many guests."
+            }
+          },
+          {
+            "reviewer_name": "C chandu",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "4.4",
+            "review_title": "Very satisfied with the industry-relevant IT course with good labs and supportive staff.",
+            "review_date": "Reviewed on29 Nov 2025",
+            "detailed_review": {
+              "Placements": "75%-90% of students in the Information Technology course get placed. The highest package is 20 LPA, and the average package is 4 LPA. Around 40%-70% of IT students typically secure internships. Software Developed / Software Engineer, Full Stack Developer roles are offered. Infosys and TCS recruit.",
+              "Infrastructure": "Internet speed is usually stable enough for coding, online labs, and project submissions. Labs are maintained regularly and have air-conditioning in most campuses. Many colleges provide smart classrooms with projectors, audio systems, and digital boards.",
+              "Faculty": "Some teachers use smart boards, PPTs, and real-time examples, which makes the concepts easier to understand. It includes lab sessions, mini-projects, workshops, and internships, which help students gain practical exposure. 80%-90%, depending on the academic year.",
+              "Other": "I chose it because it's the best."
+            }
+          },
+          {
+            "reviewer_name": "Maganti Geethika",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "3.8",
+            "review_title": "It is a very good and useful college.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "60% of students have been selected for campus placements in our college, and the highest package in our college is 8 Lacs per annum, while the lowest package is 4 Lacs per annum. The highest recruiting company that has come is TCS to select us.",
+              "Infrastructure": "Super and good facilities and infrastructure in our college. We have good speed Wi-Fi connections in our block and super-fast computer systems in labs. Library books are also good, and the facilities in our college are nice. Food is good, and the rooms are hygienic.",
+              "Faculty": "Teachers are very helpful and very good for our department. They are very friendly with us, and each teacher is qualified with high Ph.D. courses and has good knowledge. Because of them, we are passing our semester easily with the highest scores and CGPA.",
+              "Other": "I have a good seat in this college."
+            }
+          },
+          {
+            "reviewer_name": "Karnati Jayasri",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "3.6",
+            "review_title": "Very nice and beautiful college.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "80% of students have been selected from our college, and the highest package in our college is 12 lacs per annum, while the lowest package is 5 Lacs per annum. The top recruiting companies, such as Infosys and TCS, came and selected the students.",
+              "Infrastructure": "The facilities in our college are above average, and the infrastructure of our college/department is very good. We have very high-speed internet, good labs, updated systems, large classrooms, and good hostel rooms. Additionally, we have hygienic food.",
+              "Faculty": "Teachers are very helpful, qualified, and knowledgeable. The teaching quality is very good, and they are highly skilled lecturers we have in our college. Because of them, we are able to attend the semester exams easily and score well.",
+              "Other": "Good college."
+            }
+          },
+          {
+            "reviewer_name": "Gumma kiran",
+            "course": "B.Tech. in Computer Science and Engineering (Cyber Security)",
+            "overall_rating": "4",
+            "review_title": "Good placements and practical training in Cyber Security.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "Our Cyber Security batch had strong placement results with around 85–90 percent of students placed. The highest package offered is about 20 LPA, the average is 5–7 LPA, and the lowest is around 3 LPA. Top recruiting companies included Deloitte, TCS, Infosys, Wipro, Accenture Security, and IBM. Nearly 70–80 percent of students secured internships in companies like Deloitte, TCS, and PwC. The most common roles offered are cyber security analyst, SOC analyst, penetration tester, and security consultant.",
+              "Infrastructure": "Our Cyber Security course had well-equipped labs with updated tools, high-speed Wi-Fi, smart classrooms, and access to a good digital library. The hostel provided clean rooms, continuous water supply, and decent security. Mess food is average but hygienic and the canteen offered better options. Basic medical facilities are available on campus along with playgrounds, indoor games, and areas for fitness and recreation creating a comfortable overall living and learning environment.",
+              "Faculty": "The faculty in our Cyber Security course are helpful, well-qualified, and had strong technical knowledge which made the teaching quality productive and easy to follow. The curriculum is updated with industry-relevant topics like SOC operations, ethical hacking, and digital forensics helping students become job-ready. Semester exams are moderate, not difficult focusing on both theory and practical skills. The pass percentage is around 85–90 percent making it manageable for sincere students.",
+              "Other": "I chose Cyber Security because of its growing demand and strong career scope. Our batch had good labs and practical learning. The course could improve with more hands-on projects. The campus had active fests, a good crowd, and decent extracurricular activities."
+            }
+          },
+          {
+            "reviewer_name": "Ganugapenta Susmitha",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "3.8",
+            "review_title": "Good and very useful college.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "In our college, a large number of students are placed in the campus selection and the students who have received the highest package of 17LPA and the lowest package offered is 7LPA. The top recruiting companies TCS and Infosys, have selected many students.\n\n\n\nGood and very useful college.",
+              "Infrastructure": "Better facilities and good infrastructure are available for our colleges. Infrastructure of the labs is very big and has good updated systems and a good library. I like the quality of the food, and the rooms and canteen are very clean and hygienic.",
+              "Faculty": "Faculty is good and they are very helpful, qualified teachers and knowledgeable staff. They have good skills, and they help us learn new skills easily. Our teachers, we are passing our semester exams and getting good scores.",
+              "Other": "In our city, the SVE College is a very high named college, so I have joined there."
+            }
+          },
+          {
+            "reviewer_name": "shaik kismath",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "4",
+            "review_title": "It's a good and useful college.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "More students are placed in our information technology branch. The highest package in our college is 17 LPA, and the lowest package is just 5 LPA. Many useful companies have come to our college, like Infosys and TCS.",
+              "Infrastructure": "Good college facilities and infrastructure are available in our department, like labs, classrooms, and a library. We have big rooms and good Wi-Fi connections in our labs, and good updated systems. The quality of the hostel is average, and the food is also average.",
+              "Faculty": "I have a good teaching staff, and I have learned useful things, and I have developed my skills by reading and learning from our staff. The teaching of our staff helps us to score good marks, and they make it easy for learning easily, and I like the teaching.",
+              "Other": "I chose it because I got a seat."
+            }
+          },
+          {
+            "reviewer_name": "Muddada Varshini",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "3.8",
+            "review_title": "Good and useful college .",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "Many students have been placed in our college, and the highest package is 17LPA I have seen till now, and the lowest package is just 5LPA. The topmost level companies that have come to our college are Infosys and TCS.",
+              "Infrastructure": "The facilities are poor, and the labs are very few, many systems are not working in our colleges, and there is a bad Wi-Fi connection. The library is too small for all the branches we have just one library, and the hostel facilities are also bad, not that good.",
+              "Faculty": "Teachers are very good, and they help us in our studies. They are the qualified teachers, and they teach well. The semester exams are very easy because our teachers are very good, so we can write every exam easily and I like my teachers very much.",
+              "Other": "Many students are selected in campus selection for a job, so I too joined this college."
+            }
+          },
+          {
+            "reviewer_name": "Pillapalem Sushith Reddy",
+            "course": "B.Tech. in Electronics and Communication Engineering",
+            "overall_rating": "3.2",
+            "review_title": "Good campus, and average labs.",
+            "review_date": "Reviewed on28 Nov 2025",
+            "detailed_review": {
+              "Placements": "75 percent of students are placed in my course. The highest package offered is 11LPA, the average package offered is 5LPA, and the lowest package offered is 1LPA. Top recruiting companies are ZOHO and Infosys. Fewer people get internships from my college, mostly students choose outside the campus. The top roles in my course are chip designing.",
+              "Infrastructure": "Facilities and infrastructure in my college are good. Wi-Fi is available, but it is not provided to students. Labs are good, but the equipment is not in good condition and often lags. Digital boards are present in the classroom. The library has a wide collection of books and also provides Wi-Fi.",
+              "Faculty": "Most teachers are helpful, though a few are not. Teachers are supportive are qualified and knowledgeable. The course curriculum is good and covers most of the essential topics. It is relevant to industry needs. Semester exams are easy, and students can write easily."
+            }
+          },
+          {
+            "reviewer_name": "Thondamanati rushendra",
+            "course": "B.Tech. in Civil Engineering",
+            "overall_rating": "4",
+            "review_title": "I am satisfied with this college, which is good in placements, and the facilities are good.",
+            "review_date": "Reviewed on26 Nov 2025",
+            "detailed_review": {
+              "Placements": "I am from the 2024-2027 B.Tech batch, and the placements are good. A number of companies visit the campus, and a few of them prefer hiring only female candidates, which reduces opportunities for others. The placement faculty puts in good effort and regularly shares off-campus and pooled drive information. Around 40-50 percent of students from my course got placed. The highest package is around 6 LPA, the lowest is about 2.5 LPA, and the average package stayed near 3 LPA-3.2 LPA. Companies like Infosys, Wipro, Tech Mahindra, and TCS hire a few students.",
+              "Infrastructure": "The infrastructure provided for our course is good. But sometimes computers in the lab do not work properly, and the internet is also unstable at times, which affects practical classes. Classrooms have digital boards, but not all teachers are comfortable using them effectively. The library has a decent collection of books, but the space could be better maintained. Hostel facilities are manageable. The rooms are okay, but not very spacious. The hostel food is simple and edible, though the menu does not change. Medical support is always available quickly. Sports facilities are available.",
+              "Faculty": "Some faculty members are really good at explaining concepts and are helpful whenever we need support. A few teachers lack experience and mostly rely on digital boards or ask us to read from the slides without proper explanation. The curriculum is generally relevant and covers the basics needed but practical exposure is good. College uses digital classrooms which are helpful when used properly. Semester exams are not very difficult, and with regular study, it is easy to pass. The overall pass percentage in our course is fairly high, around 80 percent.",
+              "Other": "I chose this course because I was interested in engineering and wanted to build skills in the technical field. The college conducts more events and fests compared to some nearby colleges, which makes campus life enjoyable. Students are friendly and the environment is peaceful. However, I feel placements and lab facilities should be improved. Extracurricular activities happen, but sports equipment and grounds need better maintenance. Connectivity to the campus is decent, and scholarships are available for eligible students."
+            }
+          },
+          {
+            "reviewer_name": "Musugu Bhoomika",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "3.4",
+            "review_title": "Very average college, and don't join.",
+            "review_date": "Reviewed on23 Nov 2025",
+            "detailed_review": {
+              "Placements": "A high percentage of the students got placed from our course, above 30 students got campus selection, and the highest package is 5 LPA and the lowest package is 2 LPA. The top companies, Infosys and TCS, have come and selected.",
+              "Infrastructure": "The facilities and infrastructure available in our department are good, with Wi-Fi connections and big and advanced computers in labs, and very knowledgeable books in the library. In hostels, the rooms are not good, the bathrooms are few, and the food is not good.",
+              "Faculty": "For other departments, they have well-qualified teachers, but coming to IT, the teachers are not good and not skilled. They just send the PDFs and tell us to read, and they are irregular with the classes, and they do not teach us well, and they don't help us.",
+              "Other": "Nothing much interests me in this college, and more fees and extra charges."
+            }
+          },
+          {
+            "reviewer_name": "A Navitha",
+            "course": "B.Tech. in Information Technology",
+            "overall_rating": "3.8",
+            "review_title": "I liked the college.",
+            "review_date": "Reviewed on23 Nov 2025",
+            "detailed_review": {
+              "Placements": "Many percent of the students have been placed in our course, and the strength of our course is 78 students. The highest package in our college is 12 LPA, and the lowest package is 5 LPA. The top companies are Infosys and TCS in our college.",
+              "Infrastructure": "The facilities and infrastructure available for our course are very good. We have the best Wi-Fi connection, a super-fast network, good classrooms and a very well-developed library with updated books. In our hostels, the quality of food and the available food in the mess are good.",
+              "Faculty": "All teachers are very helpful, qualified, and knowledgeable. The teaching quality is very good and I like it very much. The course curriculum is relevant and does make the students industry-ready which means it helps us and makes it easy to take semester exams.",
+              "Other": "I liked the college so I joined."
+            }
+          }
+        ]
+      },
+      "admission": {
+        "admission_overview": {
+          "college_info": {
+            "college_name": "SVCE Tirupati Admission 2025: Fees, Courses, Eligibility and Selection",
+            "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+            "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+            "videos_count": 2,
+            "photos_count": 34,
+            "rating": "4.2",
+            "reviews_count": null,
+            "qa_count": 37,
+            "location": "Tirupati",
+            "city": null,
+            "institute_type": "Private Institute",
+            "established_year": "2007"
+          },
+          "admission": {
+            "title": "",
+            "overview_text": "",
+            "faqs": [
+              {
+                "question": "Is MU - Mewar University good for placements?",
+                "answer": "Located in Chittorgarh, Rajasthan, Mewar University boasts a student-centric placement cell dedicated to aiding students in securing their desired employment opportunities. As per the latest data, the university has successfully placed over 600 students with an impressive average package of Rs. 4.2 LPA. Notable recruiters in 2023 included prominent names such as Wipro, TCS, Genpact, Lupin, ICICI Bank, and CEAT Tyres. The placement process involves essential steps like registering on the Campus Interaction Portal, engaging with recruiters for campus placements, completing the Employer Registration Form (ERF), and collaboratively determining dates for pre-placement talks and final placements. While the available information suggests a favorable placement record for Mewar University, it is advisable to conduct additional research and seek insights from alumni or current students for a comprehensive evaluation before making any decisions."
+              },
+              {
+                "question": "Why do you need to score less than 20000 rank in APICET to get into a Sri Venkateswara College of Engineering, Tirupati?",
+                "answer": "Sri Venkateswara College of Engineering, Tirupati offers MBA and MCA specialisations. In 2024, the Andhra Pradesh ICET cutoff had been released by the Institute for Home State categories. The College of Arts and Commerce cutoff 2024 for Master of Computer Applications (MCA) was 17660 , and for MBA in Retail Management , it stood at 34430 for the General Home State quota. So, considering the Sri Venkateswara College of Engineering, Tirupati cutoff 2024 , we can assume that to get into the institute, candidates will have to acquire a rank less than 20000 for MBA admissions. Further, candidates can check out the round, year, and category-wise cutoff from the Sri Venkateswara College of Engineering, Tirupati page:"
+              }
+            ]
+          }
+        },
+        "admission_eligibility": {
+          "title": "",
+          "intro_text": "",
+          "eligibility_table": [],
+          "faqs": [
+            {
+              "question": "Is MU - Mewar University good for placements?",
+              "answer": "Located in Chittorgarh, Rajasthan, Mewar University boasts a student-centric placement cell dedicated to aiding students in securing their desired employment opportunities. As per the latest data, the university has successfully placed over 600 students with an impressive average package of Rs. 4.2 LPA. Notable recruiters in 2023 included prominent names such as Wipro, TCS, Genpact, Lupin, ICICI Bank, and CEAT Tyres. The placement process involves essential steps like registering on the Campus Interaction Portal, engaging with recruiters for campus placements, completing the Employer Registration Form (ERF), and collaboratively determining dates for pre-placement talks and final placements. While the available information suggests a favorable placement record for Mewar University, it is advisable to conduct additional research and seek insights from alumni or current students for a comprehensive evaluation before making any decisions. Not satisfied with answer? Ask Shiksha GPT"
+            },
+            {
+              "question": "What is the eligibility to get admission in Sri Venkateswara College of Engineering, Tirupati for UG/PG courses?",
+              "answer": "Sri Venkateswara College of Engineering, Tirupati has below criteria for taking admissions to it's various courses: Courses Eligibility MCA Candidate must have passed Bachelor degree of 3/4 years duration with Mathematics as one of the subject at Intermediate or Degree level with above mentioned marks from any recognised University/Institute.\n45% marks for BC categories.\nCandidate who are appearing for the final year degree examination are also be eligible.\nDegree obtained by Distance Mode Program should have recognition by Joint Committee of UGC, AICTE and DEC/DEB.\nCandidate who passed all the subjects of the three years of any Degree course in one sitting is not eligible for admission. MBA/PGDM Candidate must have completed Bachelor degree of 3/4 years duration with above mentioned marks from any recognised University/Institute.\n45% marks for BC categories.\nCandidate who are appearing for the final year degree examination are also be eligible.\nDegree obtained by Distance Mode Program should have recognition by Joint Committee of UGC, AICTE and DEC/DEB.\nCandidate who passed all the subjects of the three years of any Degree course in one sitting is not eligible for admission. B.E. / B.Tech Candidate must have passed Diploma in Engineering/Technology from a recognised board M.E./M.Tech Candidate completed B.Tech./B.E. degree in relevant branch from any recognised University are eligible to apply.\nCandidate must have also qualified GATE/AP-PGECET Entrance Tests. Not satisfied with answer? Ask Shiksha GPT"
+            },
+            {
+              "question": "How many seats are available for various courses offered at Sri Venkateswara College of Engineering, Tirupati?",
+              "answer": "Courses offerred by Sri Venkateswara College of Engineering, Tirupati are approved by eminent Government bodies like AICTE. The combined seats available for courses offered at Sri Venkateswara College of Engineering, Tirupati goes up to 2826. Not satisfied with answer? Ask Shiksha GPT"
+            },
+            {
+              "question": "Why do you need to score less than 20000 rank in APICET to get into a Sri Venkateswara College of Engineering, Tirupati?",
+              "answer": "Sri Venkateswara College of Engineering, Tirupati offers MBA and MCA specialisations. In 2024, the Andhra Pradesh ICET cutoff had been released by the Institute for Home State categories. The College of Arts and Commerce cutoff 2024 for Master of Computer Applications (MCA) was 17660 , and for MBA in Retail Management , it stood at 34430 for the General Home State quota. So, considering the Sri Venkateswara College of Engineering, Tirupati cutoff 2024 , we can assume that to get into the institute, candidates will have to acquire a rank less than 20000 for MBA admissions. Further, candidates can check out the round, year, and category-wise cutoff from the Sri Venkateswara College of Engineering, Tirupati page: Not satisfied with answer? Ask Shiksha GPT"
+            }
+          ]
+        }
+      },
+      "placement": {
+        "placement_report": {
+          "title": "",
+          "summary": [],
+          "faqs": []
+        },
+        "average_package": {
+          "title": "Average packages & top recruiters 2026",
+          "intro": "",
+          "average_package_table": [],
+          "top_recruiters": [
+            "Cognizant",
+            "CSC",
+            "HP",
+            "HCL",
+            "NTT Data",
+            "Amara Raja",
+            "Genpact",
+            "Global Edge",
+            "Tech Mahindra",
+            "IGATE",
+            "Maveric",
+            "Northgate Arinso",
+            "SYNTEL",
+            "Unisys India",
+            "Zeta",
+            "E4E",
+            "CapGemini",
+            "TCS"
+          ],
+          "insights": [
+            {
+              "title": "Internships and industry projects",
+              "description": "Students can work with faculty on research projects"
+            },
+            {
+              "title": "Internships and industry projects",
+              "description": "Offered in the final year only"
+            },
+            {
+              "title": "Employment opportunities",
+              "description": "Higher in core jobs"
+            },
+            {
+              "title": "Higher studies preferences",
+              "description": "Both inside India & outside India"
+            },
+            {
+              "title": "Placement support",
+              "description": "Students are expected to reach out to companies themselves"
+            },
+            {
+              "title": "Placement support",
+              "description": "Organized & proactive placement process"
+            },
+            {
+              "title": "Alumni network",
+              "description": "Strong alumni network that help with placement opportunities"
+            },
+            {
+              "title": "Entrepreneurship cell",
+              "description": "Very Active and resourceful, college is also involved"
+            },
+            {
+              "title": "Overall feeling of students",
+              "description": "Love being in college"
+            }
+          ],
+          "faqs": []
+        },
+        "placement_faqs": []
+      },
+      "cut_off": {
+        "cut_off": null
+      },
+      "ranking": {
+        "ranking": null,
+        "ranking_section": {
+          "title": "SVCE TirupatiNIRF Ranking 2025",
+          "description": "SVCE Tirupati has received strong ranks by the NIRF under the 'Engineering' category. Provided parameters including, Teaching, Graduation Outcome, Inclusivity and Research, the institute is ranked in a good position as compared to other institutes by the NIRF 2025. In the 'Engineering' category, the institute's ranks have shown stability when evaluated against previous year's ranking. In 2025, SVCE Tirupati's rank is #201 , the same as last year's rank in the 'Engineering' category by the NIRF ra SVCE Tirupati has received strong ranks by the NIRF under the 'Engineering' category. Provided parameters including, Teaching, Graduation Outcome, Inclusivity and Research, the institute is ranked in a good position as compared to other institutes by the NIRF 2025. In the 'Engineering' category, the institute's ranks have shown stability when evaluated against previous year's ranking. In 2025, SVCE Tirupati's rank is #201 , the same as last year's rank in the 'Engineering' category by the NIRF ranking. Find below the latest rankings and category breakdowns from several ranking bodies. SVCE Tirupati secured #201-300 rank in the 'Engineering' category of NIRF 2025 rankings. Its status is comparable to top institutions such as Aditya University and Ajeenkya DY Patil University. Check out how SVCE Tirupati compares to other top-ranked universities year by year. SMVEC Sri Venkateswara College of Engineering SVCET Chittoor SVCE Tirupati SVUCE St. Joseph's Institute of Technology St. Joseph's College of Engineering",
+          "tables": [
+            [
+              {
+                "Category": "B.E. / B.Tech",
+                "2024": "201-300",
+                "2025": "201-300"
+              }
+            ],
+            [
+              [
+                "College Name",
+                "Engineering 2025"
+              ],
+              [
+                "SVCE Tirupati",
+                "201-300"
+              ],
+              [
+                "VTU",
+                "151-200"
+              ],
+              [
+                "YCCE",
+                "151-200"
+              ],
+              [
+                "Aditya University",
+                "201-300"
+              ],
+              [
+                "Ajeenkya DY Patil University",
+                "201-300"
+              ]
+            ],
+            [
+              {
+                "College": "SMVEC Compare",
+                "Ranking": "288"
+              },
+              {
+                "College": "Sri Venkateswara College of Engineering Compare",
+                "Ranking": "289"
+              },
+              {
+                "College": "SVCET Chittoor Compare",
+                "Ranking": "290"
+              },
+              {
+                "College": "SVCE Tirupati",
+                "Ranking": "291"
+              },
+              {
+                "College": "SVUCE Compare",
+                "Ranking": "292"
+              },
+              {
+                "College": "St. Joseph's Institute of Technology Compare",
+                "Ranking": "293"
+              },
+              {
+                "College": "St. Joseph's College of Engineering Compare",
+                "Ranking": "294"
+              }
+            ]
+          ]
+        },
+        "ranking_criteria": null
+      },
+      "gallery": {
+        "gallery_page": {
+          "college_info": {
+            "college_name": "SVCE Tirupati Photos & Videos",
+            "logo": "https://images.shiksha.com/mediadata/images/1653047204php2C7m4l.jpeg",
+            "cover_image": "https://images.shiksha.com/mediadata/images/1653045900phpooW31X_1280x960.jpg",
+            "videos_count": 2,
+            "photos_count": 34,
+            "rating": "4.2",
+            "reviews_count": null,
+            "qa_count": 37,
+            "location": "Tirupati",
+            "city": null,
+            "institute_type": "Private Institute",
+            "established_year": "2007"
+          },
+          "data": {
+            "section_title": "Mini Clips",
+            "clips": []
+          }
+        }
+      },
+      "hotel_campus": {
+        "hostel_campus": {
+          "author": "",
+          "updated_on": "",
+          "sections": []
+        },
+        "infrastructure": {
+          "section": "Infrastructure/Facilities",
+          "facilities": [
+            {
+              "name": "Hostel",
+              "available_facilities": [
+                "Boys Hostel",
+                "Girls Hostel"
+              ]
+            },
+            {
+              "name": "Sports Complex",
+              "description": "",
+              "details": {}
+            },
+            {
+              "name": "Other Major Facilities",
+              "list": [
+                "Library",
+                "Cafeteria",
+                "Hospital / Medical Facilities",
+                "Shuttle Service",
+                "Auditorium",
+                "Labs"
+              ]
+            }
+          ],
+          "other_facilities": []
+        }
+      },
+      "faculty": {
+        "faculty": null,
+        "faculty_reviews": {
+          "overall_rating": "4.2",
+          "rating_out_of": "5",
+          "based_on_reviews": "Based on459Verified Reviews",
+          "rating_distribution": [
+            {
+              "rating_range": ">4-5star",
+              "percentage_text": "35%",
+              "percentage_width": "35%"
+            },
+            {
+              "rating_range": ">3-4star",
+              "percentage_text": "50%",
+              "percentage_width": "50%"
+            },
+            {
+              "rating_range": ">2-3star",
+              "percentage_text": "13%",
+              "percentage_width": "13%"
+            },
+            {
+              "rating_range": "1-2star",
+              "percentage_text": "2%",
+              "percentage_width": "2%"
+            }
+          ],
+          "verified_reviews_info": "The Verified badge indicates that the reviewer's details have been verified by Shiksha, and reviewers are bona fide students of this college. These reviews and ratings have been given by students. Shiksha does not endorse the same. Out of 535 published reviews , 459 reviews are verified."
+        },
+        "review_summarisation": {
+          "heading": "What students say about Sri Venkateswara College of Engineering, Tirupati",
+          "tabs_data": {
+            "Placements": {
+              "likes": [
+                {
+                  "text": "Top recruiting companies like Wipro, CTS, TCS, Infosys, PWC, Zoho, Amara Raja, Dickson, Microsoft, Tech Mahindra, etc., visit the campus for recruitment.",
+                  "review_count": "(153 Reviews)"
+                },
+                {
+                  "text": "Many students also got internships in many core companies and also in BHEL, etc, So, overall, our college has the best placements.",
+                  "review_count": "(157 Reviews)"
+                }
+              ],
+              "info_text": "These insights are automatically extracted from student reviews, without any manual intervention"
+            },
+            "Infrastructure": {
+              "likes": [
+                {
+                  "text": "Our college provides best facilities: those are Wi-Fi, labs, classrooms and Library, And also canteen and sports room.",
+                  "review_count": "(268 Reviews)"
+                },
+                {
+                  "text": "In my college the hostel is good and in hostel they provide healthy food in mess and canteen.",
+                  "review_count": "(159 Reviews)"
+                }
+              ],
+              "info_text": "These insights are automatically extracted from student reviews, without any manual intervention"
+            },
+            "Faculty": {
+              "likes": [
+                {
+                  "text": "The teachers are helpful, highly qualified, and their knowledge of their particular subjects help us gain a lot of knowledge.",
+                  "review_count": "(198 Reviews)"
+                },
+                {
+                  "text": "Yes, the course curriculum is relevant, it makes the students industry-ready, and the semester exams were a little difficult.",
+                  "review_count": "(184 Reviews)"
+                }
+              ],
+              "info_text": "These insights are automatically extracted from student reviews, without any manual intervention"
+            },
+            "Other": {
+              "likes": [
+                {
+                  "text": "I opted for computer science and engineering because it is the best course in engineering from my point of view.",
+                  "review_count": "(117 Reviews)"
+                },
+                {
+                  "text": "Apart from that, the college has so many events like workshops, college fests, ample technical fests and sports.",
+                  "review_count": "(123 Reviews)"
+                }
+              ],
+              "info_text": "These insights are automatically extracted from student reviews, without any manual intervention"
+            }
+          }
+        }
+      },
+      "compare": {
+        "articles": {
+          "college_info": {
+            "college_name": null,
+            "logo": null,
+            "cover_image": null,
+            "videos_count": 0,
+            "photos_count": 0,
+            "rating": null,
+            "reviews_count": null,
+            "qa_count": null,
+            "location": null,
+            "city": null,
+            "institute_type": null,
+            "established_year": null
+          },
+          "articles": [
+            {
+              "title": "CBSE CGPA to Percentage Calculator: How to convert CBSE 10th 12th CGPA into Percentage?",
+              "link": "https://www.shiksha.com/boards/articles/cbse-cgpa-to-percentage-calculator-how-to-convert-cbse-10th-12th-cgpa-into-percentage-blogId-170395",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 19, 2026",
+              "image": "",
+              "views": "27.5K Views",
+              "comments": "1 Comment"
+            },
+            {
+              "title": "CBSE Exam Class 12 2026: Date Sheet (Revised), Syllabus, Sample Question Papers, Pattern",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 17, 2026",
+              "image": "",
+              "views": "1.6L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Biology Question Paper 2025, 2024, 2023, 2022, 2020 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-biology-question-paper-pdf-download-blogId-117235",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 16, 2026",
+              "image": "",
+              "views": "4.4L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Result 2026: How to download CBSE 10th 12th marksheet, passing certificate from Parinam Manjusha?",
+              "link": "https://www.shiksha.com/boards/articles/cbse-result-how-to-download-cbse-10th-12th-marksheet-passing-certificate-from-parinam-manjusha-blogId-124395",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 16, 2026",
+              "image": "",
+              "views": "41.9K Views",
+              "comments": "3 Comments"
+            },
+            {
+              "title": "Digilocker CBSE Result 2026: How to access CBSE 10th 12th Marksheet via DigiLocker?",
+              "link": "https://www.shiksha.com/boards/articles/digilocker-cbse-result-how-to-access-cbse-10th-12th-marksheet-blogId-124335",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 15, 2026",
+              "image": "",
+              "views": "55.3K Views",
+              "comments": ""
+            },
+            {
+              "title": "How to Download CBSE Previous Year Question Papers Class 10th, 12th?",
+              "link": "https://www.shiksha.com/boards/articles/how-to-download-previous-year-cbse-question-papers-blogId-184586",
+              "author_name": "Md Shahzad",
+              "author_link": "https://www.shiksha.com/author/Md105063",
+              "date": "Jan 15, 2026",
+              "image": "",
+              "views": "19.9K Views",
+              "comments": "3 Comments"
+            },
+            {
+              "title": "CBSE Class 12 Physics Sample Paper 2025-26: Download CBSE 12th Physics Model Paper 2026 PDF",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-sample-paper-blogId-110599",
+              "author_name": "Md Shahzad",
+              "author_link": "https://www.shiksha.com/author/Md105063",
+              "date": "Jan 15, 2026",
+              "image": "",
+              "views": "32.4K Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Date Sheet 2026 (Revised): Download Subject-wise Final Exam Datesheet PDF",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 10, 2026",
+              "image": "",
+              "views": "1.1L Views",
+              "comments": ""
+            },
+            {
+              "title": "AP ICET Counselling 2026: Registration Dates, Web Option, Seat Allotment",
+              "link": "https://www.shiksha.com/mba/apicet-exam-counselling",
+              "author_name": "Shruti Garg",
+              "author_link": "https://www.shiksha.com/author/Shruti114611",
+              "date": "Jan 8, 2026",
+              "image": "",
+              "views": "22.4K Views",
+              "comments": ""
+            },
+            {
+              "title": "AP Inter Time Table 2026 (Out): Check Revised BIEAP Intermediate Exam Timetable",
+              "link": "https://www.shiksha.com/boards/bieap-board-timetable",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 8, 2026",
+              "image": "",
+              "views": "47.3K Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Physics Question Paper 2025, 2024, 2023, 2022, 2020 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-physics-question-paper-pdf-download-blogId-116905",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 14, 2026",
+              "image": "",
+              "views": "1.3M Views",
+              "comments": "8 Comments"
+            },
+            {
+              "title": "CBSE Class 12 Chemistry Question Paper 2025, 2024, 2023, 2022, 2020 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-chemistry-question-paper-pdf-download-blogId-116731",
+              "author_name": "Sanjana Surbhi",
+              "author_link": "https://www.shiksha.com/author/Sanjana849031986",
+              "date": "Jan 13, 2026",
+              "image": "",
+              "views": "5.6L Views",
+              "comments": "4 Comments"
+            },
+            {
+              "title": "CBSE Class 12 Maths Question Paper 2025, 2024, 2023, 2022, 2020, 2019 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-maths-question-paper-pdf-download-blogId-116939",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 14, 2026",
+              "image": "",
+              "views": "5.4L Views",
+              "comments": ""
+            },
+            {
+              "title": "AP EAMCET Marks vs Rank 2026: Check detailed Analysis",
+              "link": "https://www.shiksha.com/engineering/articles/ap-eamcet-marks-vs-rank-blogId-66795",
+              "author_name": "Dhanya B",
+              "author_link": "https://www.shiksha.com/author/Dhanya121321",
+              "date": "Dec 26, 2025",
+              "image": "",
+              "views": "4.9L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Biology Question Paper 2025, 2024, 2023, 2022, 2020 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-biology-question-paper-pdf-download-blogId-117235",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 16, 2026",
+              "image": "",
+              "views": "4.4L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Economics Question Paper 2025, 2024, 2023, 2022, 2020 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-12-economics-question-paper-pdf-download-blogId-117253",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 14, 2026",
+              "image": "",
+              "views": "4.4L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Exam Class 12 2026: Date Sheet (Revised), Syllabus, Sample Question Papers, Pattern",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 17, 2026",
+              "image": "",
+              "views": "1.6L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 12 Date Sheet 2026 (Revised): Download Subject-wise Final Exam Datesheet PDF",
+              "link": "https://www.shiksha.com/boards/science-commerce-and-arts/cbse-12th-board-dates",
+              "author_name": "Jasleen Taneja",
+              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "date": "Jan 10, 2026",
+              "image": "",
+              "views": "1.1L Views",
+              "comments": ""
+            },
+            {
+              "title": "AP Inter Time Table 2026 (Out): Check Revised BIEAP Intermediate Exam Timetable",
+              "link": "https://www.shiksha.com/boards/bieap-board-timetable",
+              "author_name": "Salviya Antony",
+              "author_link": "https://www.shiksha.com/author/SalviyaAntony29280",
+              "date": "Jan 8, 2026",
+              "image": "",
+              "views": "47.3K Views",
+              "comments": ""
+            },
+            {
+              "title": "AP EAMCET Counselling 2026: Final Phase Seat Allotment, Registration, Web Option Entry, Document Required,",
+              "link": "https://www.shiksha.com/engineering/ap-eamcet-exam-counselling",
+              "author_name": "Dhanya B",
+              "author_link": "https://www.shiksha.com/author/Dhanya121321",
+              "date": "Dec 22, 2025",
+              "image": "",
+              "views": "35.1K Views",
+              "comments": ""
+            }
+          ]
+        }
+      },
+      "scholarships": null
+    }
+  },
+  {
+    "college_details": {
+      "id": "college_289",
       "college_info": {
         "college_info": {
           "college_name": "SVUCE: Courses, Fees, Admission 2025, Placements, Cutoff",
@@ -9637,7 +10719,7 @@
   },
   {
     "college_details": {
-      "id": "college_288",
+      "id": "college_290",
       "college_info": {
         "college_info": {
           "college_name": "St. Joseph's Institute of Technology: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -10524,7 +11606,7 @@
   },
   {
     "college_details": {
-      "id": "college_289",
+      "id": "college_291",
       "college_info": {
         "college_info": {
           "college_name": "St. Joseph's College of Engineering: Admissions 2025, Courses, Fees, Eligibility, Placements",
@@ -10581,15 +11663,15 @@
               "median_salary": "3.9",
               "ranking": "201-300 NIRF",
               "rating": "3.8",
-              "reviews": "181"
+              "reviews": "180"
             },
             {
               "course_name": "M.E./M.Tech",
               "course_url": "https://www.shiksha.com/college/st-joseph-s-college-of-engineering-old-mahabalipuram-road-chennai-24564/courses/me-mtech-bc",
               "duration": "2 - 5 years",
               "exams": [
-                "GATE",
-                "CEETA"
+                "CEETA",
+                "GATE"
               ],
               "fees": "₹50 K",
               "median_salary": "– / –",
@@ -10735,10 +11817,10 @@
           "summary": {
             "college_name": "St. Joseph's College of Engineering",
             "overall_rating": "3.8",
-            "total_verified_reviews": "156",
+            "total_verified_reviews": "157",
             "rating_distribution": {
               "4-5": "59",
-              "3-4": "72",
+              "3-4": "73",
               "2-3": "17",
               "1-2": "8"
             },
@@ -12049,7 +13131,7 @@
   },
   {
     "college_details": {
-      "id": "college_290",
+      "id": "college_292",
       "college_info": {
         "college_info": {
           "college_name": "TMU: Courses, Fees, Admissions 2025, Placements, Rankings",
@@ -13568,24 +14650,64 @@
           },
           "articles": [
             {
-              "title": "CBSE Board Exam 2026: 2-month Preparation Plan to score above 90% in CBSE 10th Exams",
-              "link": "https://www.shiksha.com/boards/articles/cbse-board-exam-2026-2-month-preparation-plan-to-score-above-90-in-cbse-10th-exams-blogId-184462",
-              "author_name": "Jasleen Taneja",
-              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "title": "CUET Mathematics Question Paper 2026: Expected Questions, Download Previous Paper PDFs 2025-2022",
+              "link": "https://www.shiksha.com/science/articles/cuet-mathematics-question-paper-blogId-135197",
+              "author_name": "Nupur Jain",
+              "author_link": "https://www.shiksha.com/author/Nupur471840331",
               "date": "Jan 19, 2026",
               "image": "",
-              "views": "97.3K Views",
+              "views": "90.2K Views",
               "comments": ""
             },
             {
-              "title": "CBSE CGPA to Percentage Calculator: How to convert CBSE 10th 12th CGPA into Percentage?",
-              "link": "https://www.shiksha.com/boards/articles/cbse-cgpa-to-percentage-calculator-how-to-convert-cbse-10th-12th-cgpa-into-percentage-blogId-170395",
-              "author_name": "Jasleen Taneja",
-              "author_link": "https://www.shiksha.com/author/JasleenTaneja",
+              "title": "How to prepare for NEET 2026 in 4 months?",
+              "link": "https://www.shiksha.com/medicine-health-sciences/articles/how-to-prepare-for-neet-in-4-months-blogId-27509",
+              "author_name": "Sreetama Datta Roy",
+              "author_link": "https://www.shiksha.com/author/SreetamaDattaRoy",
               "date": "Jan 19, 2026",
               "image": "",
-              "views": "27.5K Views",
-              "comments": "1 Comment"
+              "views": "48K Views",
+              "comments": "2 Comments"
+            },
+            {
+              "title": "NEET Candidate Login 2026: What is it?",
+              "link": "https://www.shiksha.com/medicine-health-sciences/articles/neet-candidate-login-blogId-26627",
+              "author_name": "Sreetama Datta Roy",
+              "author_link": "https://www.shiksha.com/author/SreetamaDattaRoy",
+              "date": "Jan 19, 2026",
+              "image": "",
+              "views": "14K Views",
+              "comments": ""
+            },
+            {
+              "title": "List of NLUs 2026 in India to be released; Check out 2025 List, NIRF Ranking, Admissions, Fees, Seats & Courses",
+              "link": "https://www.shiksha.com/law/articles/nlus-in-india-blogId-23517",
+              "author_name": "Anupama Mehra",
+              "author_link": "https://www.shiksha.com/author/AnupamaMehra",
+              "date": "Jan 19, 2026",
+              "image": "",
+              "views": "7.7L Views",
+              "comments": "8 Comments"
+            },
+            {
+              "title": "NEET 2025 rank for 401 to 500 marks; Check Expected Rank Range",
+              "link": "https://www.shiksha.com/medicine-health-sciences/articles/neet-2025-rank-for-401-to-500-marks-check-expected-rank-range-blogId-198976",
+              "author_name": "Nidhi Gupta",
+              "author_link": "https://www.shiksha.com/author/Nidhi147624",
+              "date": "Jan 19, 2026",
+              "image": "",
+              "views": "1.1L Views",
+              "comments": ""
+            },
+            {
+              "title": "CBSE Class 10 Science Sample Paper 2025-2026 PDF Download",
+              "link": "https://www.shiksha.com/boards/articles/cbse-class-10-science-sample-paper-2025-2026-pdf-download-blogId-207840",
+              "author_name": "Md Shahzad",
+              "author_link": "https://www.shiksha.com/author/Md105063",
+              "date": "Jan 19, 2026",
+              "image": "",
+              "views": "5.1K Views",
+              "comments": ""
             },
             {
               "title": "JEE Main 2026: Hall Ticket (OUT), Exam Date & Advanced City Slip, Syllabus, Pattern",
@@ -13595,46 +14717,6 @@
               "date": "Jan 18, 2026",
               "image": "",
               "views": "1.6L Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main 90 Percentile Colleges: Check Top NITs/IIIT/GFTIs and Best Private Colleges",
-              "link": "https://www.shiksha.com/engineering/articles/jee-main-90-percentile-colleges-blogId-190216",
-              "author_name": "UPASANA PRADHAN",
-              "author_link": "https://www.shiksha.com/author/UPASANA75632",
-              "date": "Jan 18, 2026",
-              "image": "",
-              "views": "11.3K Views",
-              "comments": ""
-            },
-            {
-              "title": "List of Colleges Accepting 80 Percentile in JEE Main 2026: Check Available NITs, IIITs, GFTIs and Other Colleges",
-              "link": "https://www.shiksha.com/engineering/articles/jee-main-80-percentile-colleges-blogId-190198",
-              "author_name": "UPASANA PRADHAN",
-              "author_link": "https://www.shiksha.com/author/UPASANA75632",
-              "date": "Jan 18, 2026",
-              "image": "",
-              "views": "14.5K Views",
-              "comments": ""
-            },
-            {
-              "title": "JEE Main Login 2026 (Open): Admit Card OUT @ jeemain.nta.nic.in",
-              "link": "https://www.shiksha.com/engineering/articles/jee-main-login-blogId-19733",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Jan 17, 2026",
-              "image": "",
-              "views": "2.5L Views",
-              "comments": "5 Comments"
-            },
-            {
-              "title": "JEE Main 2026 Exam Centre in Delhi NCR - Check location, reviews & contact details",
-              "link": "https://www.shiksha.com/engineering/articles/jee-main-2026-exam-centre-in-delhi-ncr-check-location-reviews-contact-details-blogId-26771",
-              "author_name": "Mamona Majumder",
-              "author_link": "https://www.shiksha.com/author/Mamona194186",
-              "date": "Jan 17, 2026",
-              "image": "",
-              "views": "14.3K Views",
               "comments": ""
             },
             {
@@ -13775,7 +14857,7 @@
   },
   {
     "college_details": {
-      "id": "college_291",
+      "id": "college_293",
       "college_info": {
         "college_info": {
           "college_name": "LNMIIT: Cutoff 2025, Placements, Courses, Fees, Admissions 2025",
@@ -13969,6 +15051,11 @@
             "eligibility": {}
           },
           {
+            "course_name": "14 Dec '25 - 20 Jan '26",
+            "fees": "CUET PG 2026 Application Process Ongoing",
+            "eligibility": {}
+          },
+          {
             "course_name": "7 Feb '26",
             "fees": "GATE 2026 Exam- Forenoon (AG, ES, GG, IN, MA, MN, TF, XE, and XL)",
             "eligibility": {}
@@ -13979,8 +15066,8 @@
             "eligibility": {}
           },
           {
-            "course_name": "8 Feb '26",
-            "fees": "GATE 2026 Exam - Forenoon (CS1 and ST)",
+            "course_name": "14 Dec '25 - 20 Jan '26",
+            "fees": "CUET PG 2026 Application Process Ongoing",
             "eligibility": {}
           },
           {
@@ -14064,18 +15151,6 @@
           }
         },
         "reviews": [
-          {
-            "reviewer_name": "Sunay Goyal",
-            "course": "B.Tech. in Electronics and Communication Engineering",
-            "overall_rating": "3.8",
-            "review_title": "Fine college to take admission if you want a good campus and facilities.",
-            "review_date": "Reviewed on26 Dec 2025",
-            "detailed_review": {
-              "Placements": "My batch was fine, i.e., Y23. The placements were average. The thing is, the college provides 100 percent placement on the website, but only some of the students are applicable to sit on placements. It does not include those who are not applicable, whose CGPA is less. And don't expect ECE core companies; there are too few.",
-              "Infrastructure": "When it comes to the hostels, the college is pretty good. Hostel BH4 is newly built and even has AC facilities and is in new condition. Facility-wise, the college is decent. Wi-Fi is available in every hostel; one girls' hostel is there, and there are five boys' hostels, including one more newly built hostel, which is small, BH5.",
-              "Faculty": "The curriculum is pretty hard if you are in the ECE branch. If you are taking this college, you will have to study. Some professors are strict, while some are lenient. There is pretty strict marking too. But professors are helpful; the curriculum sometimes is irrelevant. Many students do not fail."
-            }
-          },
           {
             "reviewer_name": "Akshat",
             "course": "B.Tech. in Communication and Computer Engineering",
@@ -14318,6 +15393,18 @@
               "Faculty": "Faculty members at our college are highly qualified. If students are interested in the field of research, they can have this opportunity because they have many connections. The course curriculum is not according to placements. Students have to study separately to get placements. The course curriculum at our college is tough. Students have to study regularly to maintain a 7-pointer. If students don't study, they fail. The attendance should be 75%, which students have to fulfill. If students fail to fulfill, they get debarred from that course.",
               "Other": "There are no reservation policies at our college so the crowd here is solely based on merit basis. If students get a good percentile in JEE Main, they can get admission to this college. Campus life here is amazing. We have 3 fests, and they are managed by the student body itself. There are 11 cultural clubs and 7 technical clubs in our college. There is a great bond between seniors and juniors. They encourage students to participate in every event organized by them. The college is located on the outskirts of Jaipur but there are bus services provided by the college which are free. Students can go to the city whenever they want to go. Our college provides scholarships for students who have a pointer above 9. Scholarships are available for BPL students also, but they have to work for college."
             }
+          },
+          {
+            "reviewer_name": "Lav Singh",
+            "course": "B.Tech. in Computer Science Engineering",
+            "overall_rating": "2.4",
+            "review_title": "Lnmiit - Good placements, infrastructure, and supportive faculty.",
+            "review_date": "Reviewed on5 Nov 2024",
+            "detailed_review": {
+              "Placements": "Lnmiit offers a strong placement programme, especially for Computer Science and Engineering students. The average placement package is competitive, with several students receiving 25 LPA plus offers. The Lnmiit placement cell provides very good support. They give training to students for placements.",
+              "Infrastructure": "Lnmiit is equipped with basic infrastructure that supports both academic and personal development. The CSE department has well-equipped labs with all the required equipment. The classroom is also well-equipped. The hostel offers a comfortable stay with double-sharing rooms for 3 years and single rooms in the 4th year.",
+              "Faculty": "Lnmiit CSE faculty have experienced professors. The curriculum is updated regularly, including all emerging fields like AI, ML, and others. Faculty members are approachable and encourage active discussion. Exams are harder here compared to other colleges, which makes students feel pressured."
+            }
           }
         ]
       },
@@ -14358,32 +15445,36 @@
                 "answer": "To check the merit list for The LNM Institute of Information Technology Jaipur: The Steps may vary depend on the LNM Institute of Information Technology website if they change the layout of the website."
               },
               {
-                "question": "Can I get admission at LNMIIT Jaipur without an entrance exam?",
-                "answer": "Admission into LNMIIT Jaipur is primarily entrance-based for all UG, PG, and PhD programmes. However, board toppers of Class 12 can receive direct admission in BTech under the direct mode. For other programmes such as MSc and MTech, it is compulsory to clear the concerned entrance exam. Entrance tests provide merit-based selection as well as transparency."
-              },
-              {
                 "question": "How many marks are required in JEE Main to get admission in LNMIIT Jaipur?",
                 "answer": "Students must obtain a minimum of 60% in Class 12 with PCM courses for LNMIIT Jaipur B.Tech admission. In JEE Main, obtaining a good percentile is necessary to get through. The marks needed differ according to specialisation and cut-off trends. The shortlisted students are invited for counselling and seat allotment."
+              },
+              {
+                "question": "Can I get admission at LNMIIT Jaipur without an entrance exam?",
+                "answer": "Admission into LNMIIT Jaipur is primarily entrance-based for all UG, PG, and PhD programmes. However, board toppers of Class 12 can receive direct admission in BTech under the direct mode. For other programmes such as MSc and MTech, it is compulsory to clear the concerned entrance exam. Entrance tests provide merit-based selection as well as transparency."
               },
               {
                 "question": "Does LNMIIT Jaipur accept admission through JEE Main?",
                 "answer": "Yes, LNMIIT Jaipur admits BTech courses through JEE Main merit. Candidates are also required to meet the 60% eligibility criteria in Class 12 with PCM as subjects. Shortlisted candidates are given consideration for seat allocation during counselling. Selection is determined by merit and the availability of seats."
               },
               {
-                "question": "What is the fee for B.Tech at The LNM Institute of Information Technology Jaipur?",
-                "answer": "This year the fees for LNMIIT, Jaipur of all branches for odd semester is 1,78,000 INR and for even semester caution money of 10,000 INR will not be there and then fees will be 1,68,000 INR for even semester. Caution money is only for first year and is refundable after four years   "
+                "question": "How can I get a seat for MSc at LNM Institute of Information Technology?",
+                "answer": "LNM Institute of Information Technology MSc seats are offered to students via different admission modes. Candidates who have a valid score in the CUET PG or JAM exam are offered seats based on their scores. For those who have not appeared in either of the exams, the institute organises an interview process. In this process, the candidates are evaluated based on their knowledge of the domain, interpersonal skills, etc."
               },
               {
                 "question": "What is the admission process for The LNM Institute of Information Technology Jaipur?",
                 "answer": "Admission in LNMIIT Jaipur varies with the programme and entry mode. BTech admission is based on JEE Main (Regular Mode), board topper choice (Direct Mode), or Lateral Entry for Diploma holders. The application is done online, with personal information, academic marks, and entrance examination scores. It is chosen through merit based on JEE Main percentile, Class 12 percentage, or Diploma performance."
               },
               {
+                "question": "What documents are required while reporting for BTech admissions at LNMIIT?",
+                "answer": "Once LNMIIT concludes the counselling process, the admissions committee issues a provisional admission letter to selected students. These students must report to the institute along with the listed below documents:"
+              },
+              {
                 "question": "How many modes of admissions are there at LNM Institute of Information Technology?",
                 "answer": "There are multiple modes of admission for LNM Institute of Information Technology courses including entrance and merit basis. The institute has several admission modes for BTech. These are as below:"
               },
               {
-                "question": "How can I get a seat for MSc at LNM Institute of Information Technology?",
-                "answer": "LNM Institute of Information Technology MSc seats are offered to students via different admission modes. Candidates who have a valid score in the CUET PG or JAM exam are offered seats based on their scores. For those who have not appeared in either of the exams, the institute organises an interview process. In this process, the candidates are evaluated based on their knowledge of the domain, interpersonal skills, etc."
+                "question": "Can I apply for BTech at The LNM Institute of Information Technology Jaipur without JEE Main score?",
+                "answer": "No, you cannot apply for BTech at The LNM Institute of Information Technology Jaipur without a JEE Main score. LNMIIT's admission process primarily relies on a candidate's JEE Main score. However, if you are among the top 10 rank holders of the Rajasthan Board, LNMIIT may consider your admission directly. Here's the elgibilty criteria for B.Tech at LNM Institute of Information Technology"
               },
               {
                 "question": "What is the eligibility criteria for the BTech course at LNMIIT?",
@@ -15741,7 +16832,7 @@
   },
   {
     "college_details": {
-      "id": "college_292",
+      "id": "college_294",
       "college_info": {
         "college_info": {
           "college_name": "Uttaranchal University: Courses, Fees, Admission 2025, Placements, Rankings",
@@ -17625,7 +18716,7 @@
   },
   {
     "college_details": {
-      "id": "college_293",
+      "id": "college_295",
       "college_info": {
         "college_info": {
           "college_name": "Vidya Jyothi Institute of Technology: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -17681,7 +18772,7 @@
               "median_salary": "₹4.11 LPA",
               "ranking": "201-300 NIRF",
               "rating": "4.0",
-              "reviews": "377"
+              "reviews": "376"
             },
             {
               "course_name": "MBA/PGDM",
@@ -18641,7 +19732,7 @@
   },
   {
     "college_details": {
-      "id": "college_294",
+      "id": "college_296",
       "college_info": {
         "college_info": {
           "college_name": "Vignan's Institute of Information Technology: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -18698,7 +19789,7 @@
               "median_salary": "₹4.25 LPA",
               "ranking": "201-300 NIRF",
               "rating": "4.1",
-              "reviews": "956"
+              "reviews": "959"
             },
             {
               "course_name": "MBA/PGDM",
@@ -18717,7 +19808,7 @@
           "faqs": [
             {
               "answer": "",
-              "question": "Why B.Tech. is considered as the top course at Vignans Institute of Information Technology?"
+              "question": "What APICET rank is required for getting admission into the Vignan's Institute of IT for an MBA? I have 7k rank in APICET?"
             },
             {
               "answer": "",
@@ -18725,7 +19816,7 @@
             },
             {
               "answer": "",
-              "question": "What are the documents required for admission to B.Tech. at Vignans Institute of Information Technology?"
+              "question": "What is the application fee for the MBA program at Vignans Institute of Information Technology?"
             },
             {
               "answer": "",
@@ -18883,6 +19974,30 @@
               "Infrastructure": "College's best part could be the labs and the library as the infrastructure of the labs is very good which gives a very aesthetic view. About library, we can find the books which we want as they are categorized in a systematic manner. We can check the books which we need quickly whenever we want. About the hostel, Wi-Fi and classroom they are above average and are fine. The quality of the food available at the canteen and mess is good. The prices are reasonable too.",
               "Faculty": "Faculty members are all qualified, helpful, and knowledgeable. The teaching quality is between average and moderate but some faculty members are extraordinary. The course curriculum is relevant, and it does make students campus-ready for the placement with their guidelines. The semester exams are difficult, ranging from moderate to hard.",
               "Other": "I chose this course because I felt that the industry requires more students from this course and that could help me get a placement at a good company. The course offer is fine but some non-useful subjects are involved in this course and that should be checked and improved by keeping good and useful subjects. Campus surroundings, infrastructure, events, and fests are good and well-maintained."
+            }
+          },
+          {
+            "reviewer_name": "Manohar L",
+            "course": "B.Tech. in Computer Science and Engineering (Artificial Intelligence )",
+            "overall_rating": "3.6",
+            "review_title": "Finally, it is a good college.",
+            "review_date": "Reviewed on30 Dec 2025",
+            "detailed_review": {
+              "Placements": "Only 30 percent of overall students are selected in the campus placements. The highest package last year is 50 Lacs per annum, the least package is 3 Lacs per annum, and the average package is 4 Lacs per annum. Many MNCs like Amazon offer roles like testing engineer and data engineer.",
+              "Infrastructure": "Coming to the infrastructure of my college, it is average; there are some limitations in infrastructure. Wi-Fi is not available for students; they do not give access to Wi-Fi. Coming to classrooms, they are average, the canteen is average, and there are no medical facilities in my college.",
+              "Faculty": "Coming to teachers, they do not teach properly; they contribute partially to our studies. They are knowledgeable only partially. Coming to teaching quality, it is okay. The course curriculum is relevant, but no students are ready for the industry. Coming to semester examinations, they are moderate."
+            }
+          },
+          {
+            "reviewer_name": "Harsha Vardhan",
+            "course": "B.Tech. in Computer Science and Engineering (Artificial Intelligence )",
+            "overall_rating": "3.2",
+            "review_title": "Finally, it is a good college. You can join.",
+            "review_date": "Reviewed on30 Dec 2025",
+            "detailed_review": {
+              "Placements": "I think about 70 percent were placed. The highest, the lowest, and average are 10, 3, and 5 LPA. Mostly MNC companies like TCS, Infosys. 80 percent were selected for internships in MNC companies. Testing, back-end, front-end, ML, like that they offer jobs for students in my college.",
+              "Infrastructure": "Infrastructure is not good at all. There is Wi-Fi in my college, but they do not give access for students to use. Classrooms are good, but there are no smart boards. Library facilities are okay. Students also utilize the library well. The food quality in the hostel is not good. No medical facilities. Sports and games are available.",
+              "Faculty": "Teachers are not as helpful as in other colleges. They are qualified, and the teaching quality is okay not bad at all. The course is curriculum-relevant, but students are not ready for the industry. There is an outdated syllabus in the college. Semester examinations are not difficult. They are moderate. The pass percentage is only 70 percent."
             }
           },
           {
@@ -19099,31 +20214,6 @@
               "Infrastructure": "Our department has good facilities like Wi-Fi, well-equipped computer labs, smart classrooms, and access to a central library with e-resources. Hostel facilities are decent with clean rooms, though the food in the mess and canteen is average. Medical support is available on campus. Sports and games are well encouraged with grounds and indoor facilities, providing a balanced environment for academics and extracurricular activities.",
               "Faculty": "Teachers are helpful, well-qualified, and knowledgeable, making the teaching quality effective and student-friendly. The course curriculum is updated with industry-oriented subjects, helping students become job-ready. Semester exams are moderately difficult but manageable with regular study.",
               "Other": "I chose ECE due to my interest in programming and data teaching. The best parts are industry-relevant subjects, supportive faculty, and placements. Needs more real projects and internships. Fests, campus life, scholarships, and activities are vibrant."
-            }
-          },
-          {
-            "reviewer_name": "Boddeda Monika",
-            "course": "B.Tech. in Electronics and Communication Engineering",
-            "overall_rating": "5",
-            "review_title": "Supportive faculty and good placements.",
-            "review_date": "Reviewed on12 Sep 2025",
-            "detailed_review": {
-              "Placements": "Usually, 70-80% of eligible students in ECE are placed. The highest package is 20-40 LPA, the average package is 4-6 LPA, and the lowest package is 3-3.5 LPA. Service-based, product-based companies will recruit students. Around 30-40% of students are getting internships. Software engineering, data analyst are the top roles offered.",
-              "Infrastructure": "Our department has good facilities like Wi-Fi, well-equipped computer labs, smart classrooms, and access to a central library with e-resources. Hostel facilities are decent with clean rooms, though the food in the mess and canteen is average. Medical support is available on campus. Sports and games are well encouraged with grounds and indoor facilities, providing a balanced environment for academics and extracurricular activities.",
-              "Faculty": "Teachers are helpful, well-qualified, and knowledgeable, making the teaching quality effective and student-friendly. The course curriculum is updated with industry-oriented subjects, helping students become job-ready. Semester exams are moderately difficult but manageable with regular study.",
-              "Other": "I chose ECE for my interest in programming and data teaching. The best parts are industry-relevant subjects, supportive faculty, and placements. Needs more real projects and internships. Fests, campus life, scholarships, and activities are vibrant."
-            }
-          },
-          {
-            "reviewer_name": "Battula Bhanu Prasad",
-            "course": "B.Tech. in Computer Science and Engineering",
-            "overall_rating": "5",
-            "review_title": "All over best college for pursuing CSE.",
-            "review_date": "Reviewed on28 Aug 2025",
-            "detailed_review": {
-              "Placements": "Around 80% of students got placement offers from our institute. The highest package offer this year is 36 LPA. On the other hand, the lowest cost is 3.6 LPA. Companies like Infosys, Amazon, Inncircles, and sometimes Flipkart frequently hire students. The average roles offered to the students are special programmer, software engineer, etc.",
-              "Infrastructure": "Our college infrastructure is top-notch. Our college is ranked number one for infrastructure in the whole district. The whole campus is green and properly maintained. Food is so delicious. All food items are available in our institute's canteen. College labs are in good condition, and libraries are also present with many books. Classrooms are well decorated. Medical facilities are available 24/7.",
-              "Faculty": "All faculty members of our institute are so friendly. They are specialized in their respective fields. Most of the faculty members have Ph. D.s and master's degrees. The curriculum activity of our institute is relevant and helps with placement. The faculty's teaching method is great. Faculty members are making students industry-ready. Semester exams are moderate, and the passing percentage is 95%."
             }
           }
         ]
@@ -19713,7 +20803,7 @@
   },
   {
     "college_details": {
-      "id": "college_295",
+      "id": "college_297",
       "college_info": {
         "college_info": {
           "college_name": "Walchand College of Engineering: Courses, Fees, Admission 2025, Placements, Reviews",
@@ -19841,8 +20931,8 @@
             "eligibility": {
               "graduation": "50 %",
               "exams": [
-                "MHTCET MTech",
-                "GATE"
+                "GATE",
+                "MHTCET MTech"
               ]
             }
           },
