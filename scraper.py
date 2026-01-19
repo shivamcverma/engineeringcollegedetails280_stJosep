@@ -20,6 +20,7 @@ BASE_URL =[
     "https://www.shiksha.com/college/sri-manakula-vinayagar-engineering-college-smvec-pondicherry-48021",
     "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-kanchipuram-chennai-23602",
     "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-and-technology-chittoor-37770",
+    "https://www.shiksha.com/college/sri-venkateswara-college-of-engineering-tirupati-48365",
     "https://www.shiksha.com/college/college-of-engineering-sri-venkateswara-university-tirupati-22999",
     "https://www.shiksha.com/college/st-joseph-s-institute-of-technology-old-mahabalipuram-road-chennai-61315",
     "https://www.shiksha.com/college/st-joseph-s-college-of-engineering-old-mahabalipuram-road-chennai-24564",
