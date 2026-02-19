@@ -9253,7 +9253,7 @@ def parse_faq_scholarships_section(driver, URLS):
 def scrape_mba_colleges():
     driver = create_driver()
     all_data = []
-    c_count = 81
+    c_count = 281
 
     try:
         for base_url in BASE_URL:
